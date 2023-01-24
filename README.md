@@ -22,7 +22,7 @@
   </ul>
 </p>
 
-<h2>💻 Projeto</h2>
+<h2>💻Projeto</h2>
 <p>O Hábitos é um app para ajudar no monitoramento de novos hábitos.
 <ul>
   <li>
@@ -31,7 +31,7 @@
 </ul>
 </p>
 
-<h2>🔖 Layout</h2>
+<h2>🔖Layout</h2>
 <p>Você pode visualizar o layout do projeto através desse 
   <a href="https://www.figma.com/community/file/1195327109778210238">LINK</a>
   . É necessário ter conta no
