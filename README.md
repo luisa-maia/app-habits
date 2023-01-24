@@ -26,7 +26,7 @@
 <p>O Hábitos é um app para ajudar no monitoramento de novos hábitos.
 <ul>
   <li>
-    <a hrf="https://maykbrito.github.io/nlw-setup"> Visite o projeto online</a>
+    <a hrf="https://luisa-maia.github.io/app-habits/"> Visite o projeto online</a>
   </li>
 </ul>
 </p>
