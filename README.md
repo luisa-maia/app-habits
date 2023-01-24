@@ -39,5 +39,5 @@
   para acessá-lo.
 </p>
 
-<h2>📝 Licença</h2>
+<h2>📝Licença</h2>
 <p>Esse projeto está sob licença MIT.</p>
